@@ -72,7 +72,7 @@
     "react-addons-test-utils": "^0.14.2",
     "react-hot-loader": "^1.2.7",
     "sass-loader": "^3.0.0",
-    "sinon": "^1.17.1",
+    "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0",
     "style-loader": "^0.12.3",
     "url-loader": "^0.5.6",
